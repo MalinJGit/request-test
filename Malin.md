@@ -1,1 +1,1 @@
-Det här är mitt första meddelande
+Det här är mitt första meddelande och nu ska jag testa ett nytt kommando
